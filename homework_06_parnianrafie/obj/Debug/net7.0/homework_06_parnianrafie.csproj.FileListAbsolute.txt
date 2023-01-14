@@ -1,0 +1,17 @@
+C:\Users\hufu\Desktop\homework_06_parnianrafie\homework_06_parnianrafie\bin\Debug\net7.0\homework_06_parnianrafie.exe
+C:\Users\hufu\Desktop\homework_06_parnianrafie\homework_06_parnianrafie\bin\Debug\net7.0\homework_06_parnianrafie.deps.json
+C:\Users\hufu\Desktop\homework_06_parnianrafie\homework_06_parnianrafie\bin\Debug\net7.0\homework_06_parnianrafie.runtimeconfig.json
+C:\Users\hufu\Desktop\homework_06_parnianrafie\homework_06_parnianrafie\bin\Debug\net7.0\homework_06_parnianrafie.dll
+C:\Users\hufu\Desktop\homework_06_parnianrafie\homework_06_parnianrafie\bin\Debug\net7.0\homework_06_parnianrafie.pdb
+C:\Users\hufu\Desktop\homework_06_parnianrafie\homework_06_parnianrafie\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\hufu\Desktop\homework_06_parnianrafie\homework_06_parnianrafie\obj\Debug\net7.0\homework_06_parnianrafie.csproj.AssemblyReference.cache
+C:\Users\hufu\Desktop\homework_06_parnianrafie\homework_06_parnianrafie\obj\Debug\net7.0\homework_06_parnianrafie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hufu\Desktop\homework_06_parnianrafie\homework_06_parnianrafie\obj\Debug\net7.0\homework_06_parnianrafie.AssemblyInfoInputs.cache
+C:\Users\hufu\Desktop\homework_06_parnianrafie\homework_06_parnianrafie\obj\Debug\net7.0\homework_06_parnianrafie.AssemblyInfo.cs
+C:\Users\hufu\Desktop\homework_06_parnianrafie\homework_06_parnianrafie\obj\Debug\net7.0\homework_06_parnianrafie.csproj.CoreCompileInputs.cache
+C:\Users\hufu\Desktop\homework_06_parnianrafie\homework_06_parnianrafie\obj\Debug\net7.0\homework_06_parnianrafie.csproj.CopyComplete
+C:\Users\hufu\Desktop\homework_06_parnianrafie\homework_06_parnianrafie\obj\Debug\net7.0\homework_06_parnianrafie.dll
+C:\Users\hufu\Desktop\homework_06_parnianrafie\homework_06_parnianrafie\obj\Debug\net7.0\refint\homework_06_parnianrafie.dll
+C:\Users\hufu\Desktop\homework_06_parnianrafie\homework_06_parnianrafie\obj\Debug\net7.0\homework_06_parnianrafie.pdb
+C:\Users\hufu\Desktop\homework_06_parnianrafie\homework_06_parnianrafie\obj\Debug\net7.0\homework_06_parnianrafie.genruntimeconfig.cache
+C:\Users\hufu\Desktop\homework_06_parnianrafie\homework_06_parnianrafie\obj\Debug\net7.0\ref\homework_06_parnianrafie.dll
